@@ -1,0 +1,18 @@
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\bin\Debug\Vtys Proje.exe.config
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\bin\Debug\Vtys Proje.exe
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\bin\Debug\Vtys Proje.pdb
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys Proje.csproj.AssemblyReference.cache
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.Login.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.Properties.Resources.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys Proje.csproj.GenerateResource.cache
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys Proje.csproj.CoreCompileInputs.cache
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys Proje.exe
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys Proje.pdb
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.Menu.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.UC_Uye.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.Uc_UyeBilgi.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.UC_SilinenKayitlar.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.UC_UyeTakvim.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.UC_Antrenor.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.UC_Yedekleme.resources
+C:\Users\bgyas\source\repos\Vtys Proje\Vtys Proje\obj\Debug\Vtys_Proje.UC_Admin.resources
